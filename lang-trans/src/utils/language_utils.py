@@ -5,7 +5,6 @@ from langdetect import detect
 from ..config import LANGUAGE_CODES
 
 load_dotenv()
-API = os.getenv('DETECT_LANG_API')
 
 async def translate_text(text: str, dest_lang: str) -> dict:
     """
