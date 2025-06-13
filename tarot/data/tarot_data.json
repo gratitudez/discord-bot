@@ -1,0 +1,685 @@
+[
+  {
+    "name": "The Fool",
+    "type": "Major Arcana",
+    "description": "Taking a risk, A new beginning. Folly, mania, extravagance, intoxication, delirium, frenzy. The fools journey.",
+    "reversed_meaning": "Indecision, hesitation, apathy, making poor choices.",
+    "element": "Air",
+    "zodiac": "Aquarius",
+    "astrological": "Uranus",
+    "chakra": "Crown",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Magician",
+    "type": "Major Arcana",
+    "description": "Skill, diplomacy, address, self-confidence, will. The Magician is a powerful manifester. You can achieve your dreams by using all of your divine energy.",
+    "reversed_meaning": "Unimaginative, insecurity, a lack of self-confidence, sickness, pain, loss, disaster.",
+    "element": "Air",
+    "zodiac": "Gemini and Virgo",
+    "astrological": "Mercury",
+    "chakra": "Throat",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The High Priestess",
+    "type": "Major Arcana",
+    "description": "Secrets, mystery, the future as yet unrevealed, silence, tenacity; wisdom, science. Divine feminine energy. This is a time to reflect on things.",
+    "reversed_meaning": "Selfishness, shallowness, lacking insight, ignorance and misunderstanding.",
+    "element": "Water",
+    "zodiac": "Cancer",
+    "astrological": "Moon",
+    "chakra": "Third Eye",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Empress",
+    "type": "Major Arcana",
+    "description": "Fruitfulness, initiative, action, long days, clandestine. Mothering energy, embrace the qualities of nurturing and love.",
+    "reversed_meaning": "The unknown, difficulty, doubt, ignorance, inaction, lacking concentration, anxiety, infidelity.",
+    "element": "Earth",
+    "astrological": "Venus",
+    "chakra": "Heart and Sacral",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Emperor",
+    "type": "Major Arcana",
+    "description": "Stability, power, aid, protection, a great person, conviction, reason. An opportunity may be presenting itself.",
+    "reversed_meaning": "Instability, Insecurity, powerlessness, helpless, in need of protection, of poor character, lacking conviction, illogical.",
+    "element": "Fire",
+    "zodiac": "Aries",
+    "astrological": "Mars",
+    "chakra": "Root",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Hierophant",
+    "type": "Major Arcana",
+    "description": "Marriage alliance, captivity, servitude, mercy and goodness, inspiration, the man to whom the Querent has recourse.",
+    "reversed_meaning": "Unconventional, vulnerable, foolish, frailty, unorthodox behavior.",
+    "element": "Earth",
+    "zodiac": "Taurus",
+    "astrological": "Venus",
+    "chakra": "Throat",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Lovers",
+    "type": "Major Arcana",
+    "description": "Attraction, love, beauty, trials overcome. You are being led to love.",
+    "reversed_meaning": "Separation, hate, frustration, unreliability, fickleness, lack of support.",
+    "element": "Air",
+    "zodiac": "Gemini",
+    "astrological": "Mercury",
+    "chakra": "Heart",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "The Chariot",
+    "type": "Major Arcana",
+    "description": "Progression, forward motion. No obstacles will be able to stop you. You are moving forward and progressing now.",
+    "reversed_meaning": "Defeat, failure, unsuccessful, vanquishment, vengeance, trouble.",
+    "element": "Water",
+    "zodiac": "Cancer",
+    "astrological": "Moon",
+    "chakra": "Throat",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Strength",
+    "type": "Major Arcana",
+    "description": "Power, energy, action, courage, magnanimity. The first step to achieving strength is to be kind to yourself.",
+    "reversed_meaning": "Weakness, sickness, lack of conviction, cowardice.",
+    "element": "Fire",
+    "zodiac": "Leo",
+    "astrological": "Sun",
+    "chakra": "Solar Plexus",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Hermit",
+    "type": "Major Arcana",
+    "description": "Looking Within. Introspection, soul searching, solitude. You are honoring your spiritual self at this time.",
+    "reversed_meaning": "Hastiness, immaturity, rash decision making, foolishness.",
+    "element": "Earth",
+    "zodiac": "Virgo",
+    "astrological": "Chiron",
+    "chakra": "Third Eye",
+    "yes_no": "No"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "type": "Major Arcana",
+    "description": "Destiny, fortune, success, luck, felicity. You must go with the flow of life.",
+    "reversed_meaning": "Going against the flow, struggle, interruption, failure, bad luck.",
+    "element": "Fire",
+    "astrological": "Jupiter",
+    "chakra": "Solar Plexus",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Justice",
+    "type": "Major Arcana",
+    "description": "Equity, rightness, probity, executive, fairness, cause and effect. You must seek balance and truth.",
+    "reversed_meaning": "Imbalance, false accusations, unfairness, abusive action, biased opinion.",
+    "element": "Air",
+    "zodiac": "Libra",
+    "astrological": "Venus",
+    "chakra": "Heart",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Hanged Man",
+    "type": "Major Arcana",
+    "description": "Wisdom, trials, circumspection, discernment, sacrifice, intuition, divination, prophecy. You are suspended in time.",
+    "reversed_meaning": "False prophecy, impatience, unwillingness, lack of perspective, foolishness.",
+    "element": "Water",
+    "astrological": "Neptune",
+    "chakra": "Third Eye",
+    "yes_no": "No"
+  },
+  {
+    "name": "Death",
+    "type": "Major Arcana",
+    "description": "Endings, beginnings, change, mortality. Change is here. The death of something old heralds the birth of something new.",
+    "reversed_meaning": "Death, stagnation, immobility, slow changes, destruction, corruption.",
+    "element": "Water",
+    "zodiac": "Scorpio",
+    "astrological": "Pluto",
+    "chakra": "Heart",
+    "yes_no": "No"
+  },
+  {
+    "name": "Temperance",
+    "type": "Major Arcana",
+    "description": "Economy, moderation, frugality, management, accommodation. This card indicates a need for balance in your life.",
+    "reversed_meaning": "Excess, conflict, disunion, frustration, impatience, chaos.",
+    "element": "Fire",
+    "zodiac": "Sagittarius",
+    "astrological": "Jupiter",
+    "chakra": "Solar plexus",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Devil",
+    "type": "Major Arcana",
+    "description": "Ravage, violence, force, vehemence, extraordinary efforts, fatality, that which is predestined but not for this reason evil. Negative energy.",
+    "reversed_meaning": "Enlightenment, detached from the physical world, divorce, recovery, release.",
+    "element": "Water",
+    "zodiac": "Pisces",
+    "astrological": "Neptune",
+    "chakra": "Third Eye",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Tower",
+    "type": "Major Arcana",
+    "description": "Sudden Change, misery, distress, ruin, indigence, adversity, calamity, disgrace, deception. A change is in store for you.",
+    "reversed_meaning": "Stagnation, entrapment, imprisonment, old ways, stuck in the past.",
+    "element": "Fire",
+    "astrological": "Mars",
+    "chakra": "Crown",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Star",
+    "type": "Major Arcana",
+    "description": "Suggests hope and bright prospects in the future. Spiritual Guidance. When the Star card appears, you are likely to find yourself feeling inspired.",
+    "reversed_meaning": "Disappointment, disillusion, bad luck, imbalance, uninspired, lost dreams.",
+    "element": "Air",
+    "zodiac": "Aquarius",
+    "astrological": "Uranus",
+    "chakra": "Crown",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "The Moon",
+    "type": "Major Arcana",
+    "description": "Illusion, mystery, dreams. You may be feeling confused. The path may not be clear at this time.",
+    "reversed_meaning": "Hidden enemies, danger, calumny, darkness, terror, deception, error.",
+    "element": "Water",
+    "zodiac": "Pisces",
+    "astrological": "Neptune",
+    "chakra": "Third Eye",
+    "yes_no": "No"
+  },
+  {
+    "name": "The Sun",
+    "type": "Major Arcana",
+    "description": "Success, vitality, youth. Material happiness, fortunate marriage and contentment. You are a light.",
+    "reversed_meaning": "Failure, ageing, loneliness, bad fortune, unhappiness, break-ups, distress.",
+    "element": "Fire",
+    "astrological": "The Sun",
+    "chakra": "Solar Plexus",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Judgement",
+    "type": "Major Arcana",
+    "description": "Change of position, renewal, outcome. You may be at a crossroads and faced with choices that have significant consequences.",
+    "reversed_meaning": "Endings, disappointment, indecision, death, failure, ill-health, worry. Being judged by others.",
+    "element": "Fire",
+    "astrological": "Pluto",
+    "chakra": "Crown",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "The World",
+    "type": "Major Arcana",
+    "description": "Completion, accomplishment, assured success, route, voyage, emigration, flight, change of place. You have come full circle.",
+    "reversed_meaning": "A lack of vision, ending in failure, disappointment, imperfection.",
+    "element": "Earth",
+    "astrological": "Saturn",
+    "chakra": "Root",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Cups",
+    "type": "Cups",
+    "description": "Love, new relationship, friendship, joy, creativity. Awakening. The Ace of Cups has a positive message of new beginnings.",
+    "reversed_meaning": "Blocked emotions, emptiness, disappointment.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Cups",
+    "type": "Cups",
+    "description": "Partnership, harmony, exchange of energy. The couple on the card each holds a cup. They share equally with each other.",
+    "reversed_meaning": "Imbalance in relationship, one-sided love, disharmony.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Cups",
+    "type": "Cups",
+    "description": "Celebration, friendships, family cooperation. This is a time of celebration with family and friends.",
+    "reversed_meaning": "Overindulgence, gossip, isolation.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Cups",
+    "type": "Cups",
+    "description": "Contemplation, reevaluation, missed opportunities, not appreciating what you have, love after loss.",
+    "reversed_meaning": "New opportunities, renewed interest, gratitude.",
+    "element": "Water",
+    "yes_no": "No"
+  },
+  {
+    "name": "Five of Cups",
+    "type": "Cups",
+    "description": "Grief, mourning, sadness, loss, disappointment, regret, self-pity.",
+    "reversed_meaning": "Acceptance, forgiveness, moving on.",
+    "element": "Water",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Cups",
+    "type": "Cups",
+    "description": "The past, reunions, nostalgia, childlike energy. Old memories. Reminiscing about the past, old friends.",
+    "reversed_meaning": "Being stuck in the past, unrealistic nostalgia.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Cups",
+    "type": "Cups",
+    "description": "Choices, opportunities, daydreaming, wishful thinking.",
+    "reversed_meaning": "Confusion, overwhelming options, inability to choose.",
+    "element": "Water",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Eight of Cups",
+    "type": "Cups",
+    "description": "Letting go, moving on. A change or turning point.",
+    "reversed_meaning": "Fear of change, staying in a bad situation, inability to move on.",
+    "element": "Water",
+    "yes_no": "No"
+  },
+  {
+    "name": "Nine of Cups",
+    "type": "Cups",
+    "description": "Joy, manifesting dreams, abundance, wishes fulfilled.",
+    "reversed_meaning": "Disappointment, unfulfilled wishes, materialism.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ten of Cups",
+    "type": "Cups",
+    "description": "Joy, love, happiness, family, contentment.",
+    "reversed_meaning": "Broken family, domestic conflicts, unhappiness at home.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Page of Cups",
+    "type": "Cups",
+    "description": "Creativity, magic, romance.",
+    "reversed_meaning": "Emotional immaturity, blocked creativity, disappointment.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Cups",
+    "type": "Cups",
+    "description": "Romance, passion, love, chivalry.",
+    "reversed_meaning": "Moodiness, unrealistic expectations, jealousy.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Cups",
+    "type": "Cups",
+    "description": "Divine feminine energy. Emotions, love, compassion, healing.",
+    "reversed_meaning": "Emotional insecurity, dependency, manipulation.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Cups",
+    "type": "Cups",
+    "description": "Love, support, nurturing, wisdom.",
+    "reversed_meaning": "Emotional manipulation, moodiness, coldness.",
+    "element": "Water",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Wands",
+    "type": "Wands",
+    "description": "New ideas, creativity, potential, success.",
+    "reversed_meaning": "Delays, lack of motivation, creative blocks.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Wands",
+    "type": "Wands",
+    "description": "Planning for the future, discovery, decision, new adventures.",
+    "reversed_meaning": "Fear of change, playing it safe, bad planning.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Wands",
+    "type": "Wands",
+    "description": "Expansion, progress, foresight, moving in the right direction.",
+    "reversed_meaning": "Obstacles, delays, frustration.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Wands",
+    "type": "Wands",
+    "description": "Celebration, harmony, attainment.",
+    "reversed_meaning": "Lack of support, transience, home conflicts.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Five of Wands",
+    "type": "Wands",
+    "description": "Competition, teamwork, leveling up, being pushed by others to succeed.",
+    "reversed_meaning": "Internal conflict, unnecessary strife, giving up.",
+    "element": "Fire",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Wands",
+    "type": "Wands",
+    "description": "Victory, success, reward, achievement.",
+    "reversed_meaning": "Failure, excessive pride, fall from grace.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Wands",
+    "type": "Wands",
+    "description": "Competition, challenges, strength.",
+    "reversed_meaning": "Giving up, overwhelmed, defensiveness.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Eight of Wands",
+    "type": "Wands",
+    "description": "Travel, swift movement, changes, quick decision making.",
+    "reversed_meaning": "Delays, frustration, missed opportunities.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Nine of Wands",
+    "type": "Wands",
+    "description": "Persistence, resilience, determination, resourcefulness.",
+    "reversed_meaning": "Exhaustion, giving up, lack of boundaries.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ten of Wands",
+    "type": "Wands",
+    "description": "Imbalance, burdens, obligations.",
+    "reversed_meaning": "Releasing burdens, delegation, overwhelm.",
+    "element": "Fire",
+    "yes_no": "No"
+  },
+  {
+    "name": "Page of Wands",
+    "type": "Wands",
+    "description": "Explosive creativity, optimism, curiosity, youthful inspiration.",
+    "reversed_meaning": "Lack of direction, scattered energy, delays.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Wands",
+    "type": "Wands",
+    "description": "Enthusiasm, energy, adventure. Forward movement.",
+    "reversed_meaning": "Impulsiveness, recklessness, frustration.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Wands",
+    "type": "Wands",
+    "description": "Inspiration, accomplishment, vibrance and optimism.",
+    "reversed_meaning": "Demanding, jealousy, insecurity.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Wands",
+    "type": "Wands",
+    "description": "Leadership, vision and inspiration.",
+    "reversed_meaning": "Impulsive, overbearing, impossible standards.",
+    "element": "Fire",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "type": "Pentacles",
+    "description": "Success, manifestation, security, prosperity.",
+    "reversed_meaning": "Lost opportunity, lack of planning, corruption.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Pentacles",
+    "type": "Pentacles",
+    "description": "Balance, resourcefulness, good management.",
+    "reversed_meaning": "Imbalance, disorganization, overwhelm.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Three of Pentacles",
+    "type": "Pentacles",
+    "description": "Success, achievement, skill, recognition.",
+    "reversed_meaning": "Lack of teamwork, misalignment, mediocrity.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Four of Pentacles",
+    "type": "Pentacles",
+    "description": "Security, savings, protecting resources.",
+    "reversed_meaning": "Greed, materialism, holding on too tightly.",
+    "element": "Earth",
+    "yes_no": "No"
+  },
+  {
+    "name": "Five of Pentacles",
+    "type": "Pentacles",
+    "description": "Poverty, insecurity, lack, financial loss.",
+    "reversed_meaning": "Recovery, spiritual growth, asking for help.",
+    "element": "Earth",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Pentacles",
+    "type": "Pentacles",
+    "description": "Charity, generosity, exchange of energy, giving and receiving.",
+    "reversed_meaning": "Debt, selfishness, one-sided relationships.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "type": "Pentacles",
+    "description": "Patience, hard work, waiting for results.",
+    "reversed_meaning": "Impatience, lack of progress, giving up.",
+    "element": "Earth",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "type": "Pentacles",
+    "description": "Apprenticeship, teaching, mastering skills.",
+    "reversed_meaning": "Perfectionism, lack of progress, uninspired work.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "type": "Pentacles",
+    "description": "Luxury, independence, success, prosperity, good luck.",
+    "reversed_meaning": "Facade of success, empty achievements, materialism.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "type": "Pentacles",
+    "description": "Financial blessings, generational wealth, confidence, reward.",
+    "reversed_meaning": "Financial failure, loss of legacy, family conflicts.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Page of Pentacles",
+    "type": "Pentacles",
+    "description": "Financial opportunities, good news, beginnings.",
+    "reversed_meaning": "Lack of progress, procrastination, missed opportunity.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "type": "Pentacles",
+    "description": "Stability, progress, determination, diligence, expansion.",
+    "reversed_meaning": "Boredom, stagnation, excessive caution.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "type": "Pentacles",
+    "description": "Generosity, security, providing for your family.",
+    "reversed_meaning": "Financial insecurity, materialism, possessiveness.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "King of Pentacles",
+    "type": "Pentacles",
+    "description": "Economic Power. Reaping a big harvest. Having it all.",
+    "reversed_meaning": "Materialism, inflexibility, stubbornness.",
+    "element": "Earth",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Ace of Swords",
+    "type": "Swords",
+    "description": "Victory, progress, mental clarity, truth revealed.",
+    "reversed_meaning": "Confusion, brutality, chaos, lack of clarity.",
+    "element": "Air",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Two of Swords",
+    "type": "Swords",
+    "description": "A stalemate or crossroads, choices, making a decision.",
+    "reversed_meaning": "Indecision, confusion, information overload.",
+    "element": "Air",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Three of Swords",
+    "type": "Swords",
+    "description": "Pain, sorrow, heartbreak, disappointment.",
+    "reversed_meaning": "Recovery, forgiveness, moving on.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Four of Swords",
+    "type": "Swords",
+    "description": "Deep rest, vacation, contemplation, healing, recovery.",
+    "reversed_meaning": "Restlessness, burnout, lack of progress.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Five of Swords",
+    "type": "Swords",
+    "description": "Conflict, tension, loss, change in perspective.",
+    "reversed_meaning": "Reconciliation, making amends, desire to move on.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Six of Swords",
+    "type": "Swords",
+    "description": "Improvement, end of difficult times, healing, moving on, transition.",
+    "reversed_meaning": "Resistance to change, unable to move on, baggage.",
+    "element": "Air",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Seven of Swords",
+    "type": "Swords",
+    "description": "Self confidence, being grateful, strength, cunning, strategy, utilizing the resources you have.",
+    "reversed_meaning": "Confession, exposure, acceptance of consequences.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Eight of Swords",
+    "type": "Swords",
+    "description": "Blind trust, constraint, feeling stuck.",
+    "reversed_meaning": "Freedom, self-acceptance, new perspective.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Nine of Swords",
+    "type": "Swords",
+    "description": "Nightmares, anxiety, worry, stress.",
+    "reversed_meaning": "Hope, reaching out for help, learning to cope.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Ten of Swords",
+    "type": "Swords",
+    "description": "End of the situation, peace, finality, moving on.",
+    "reversed_meaning": "Recovery, regeneration, resisting the inevitable.",
+    "element": "Air",
+    "yes_no": "No"
+  },
+  {
+    "name": "Page of Swords",
+    "type": "Swords",
+    "description": "Intelligence, curiosity, thirst for knowledge, truth.",
+    "reversed_meaning": "Deception, manipulation, all talk and no action.",
+    "element": "Air",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "Knight of Swords",
+    "type": "Swords",
+    "description": "Haste, streamlined decision making, determination, ambition, success.",
+    "reversed_meaning": "Impulsiveness, aggression, no plan of action.",
+    "element": "Air",
+    "yes_no": "Yes"
+  },
+  {
+    "name": "Queen of Swords",
+    "type": "Swords",
+    "description": "Independence, clear thinking, judgment, direct communication.",
+    "reversed_meaning": "Cold-hearted, bitter, cruel, bitterness.",
+    "element": "Air",
+    "yes_no": "Maybe"
+  },
+  {
+    "name": "King of Swords",
+    "type": "Swords",
+    "description": "Intelligence, knowledge, diplomacy, clear thinking, truth.",
+    "reversed_meaning": "Manipulation, cruelty, abuse of power.",
+    "element": "Air",
+    "yes_no": "Yes"
+  }
+]
