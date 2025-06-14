@@ -14,7 +14,10 @@
 - `/detecttranslate` – Detects language and translate to selected language 
 - `/translate` – Translate text to another language
 
-# Step by step installation guide
+## Lang-Trans Showcase
+![Untitled-2024-09-12-1534 (3)](https://github.com/user-attachments/assets/43ec69dd-7248-4a2f-9082-5fd4523c8eca)
+
+## Step by step installation guide
 
 1. **Clone the repository and navigate to the bot directory:**
    ```bash
